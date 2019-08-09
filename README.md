@@ -1,5 +1,5 @@
 
-# Clima ☁
+# flutter_weather_app ☁
 - a simple weather app 
 
 ## App functions 
